@@ -35,7 +35,7 @@ conda-build==3.17.8
 conda-package-handling==0+unknown
 conda-verify==3.3.0
 contextlib2==0.5.5
-cryptography==2.7
+cryptography==3.2
 cvxpy==1.0.25
 cycler==0.10.0
 Cython==0.29.10
